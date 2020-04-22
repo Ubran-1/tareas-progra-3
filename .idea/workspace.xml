@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da788d6f-520d-4bdd-a037-0578950de597" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ak9wNFmQYjaN7Ld8vj3axYOJL5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Parte-1" />
+  </component>
+  <component name="RunManager" selected="Python.BranBarr">
+    <configuration name="BranBarr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio2210420" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BranBarr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicio2210420" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BranBarr" />
+        <item itemvalue="Python.list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da788d6f-520d-4bdd-a037-0578950de597" name="Default Changelist" comment="" />
+      <created>1587268961657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587268961657</updated>
+      <workItem from="1587268998684" duration="267000" />
+      <workItem from="1587305931531" duration="3098000" />
+      <workItem from="1587435836041" duration="168000" />
+      <workItem from="1587482396820" duration="3350000" />
+      <workItem from="1587498584306" duration="13719000" />
+      <workItem from="1587517308564" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1587517238294">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1587517238294" />
+    <state width="1317" height="433" key="GridCell.Tab.0.bottom" timestamp="1587516980749">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="433" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587516980749" />
+    <state width="1317" height="433" key="GridCell.Tab.0.center" timestamp="1587516980748">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="433" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587516980748" />
+    <state width="1317" height="433" key="GridCell.Tab.0.left" timestamp="1587516980748">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="433" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587516980748" />
+    <state width="1317" height="433" key="GridCell.Tab.0.right" timestamp="1587516980748">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="433" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587516980748" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587517308794">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587517308794" />
+    <state x="343" y="49" key="search.everywhere.popup" timestamp="1587484015438">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1587484015438" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ejercicio180420$list.coverage" NAME="list Coverage Results" MODIFIED="1587512785287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ejercicio180420$BranBarr.coverage" NAME="BranBarr Coverage Results" MODIFIED="1587516800847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
